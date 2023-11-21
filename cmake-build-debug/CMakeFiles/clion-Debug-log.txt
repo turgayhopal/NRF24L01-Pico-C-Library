@@ -1,0 +1,32 @@
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" -S C:\Users\Turgay\OneDrive\Workspaces\personal-projects\NRF24L01-Library-Pico -B C:\Users\Turgay\OneDrive\Workspaces\personal-projects\NRF24L01-Library-Pico\cmake-build-debug
+Using PICO_SDK_PATH from environment ('C:\Pico\pico-sdk')
+PICO_SDK_PATH is C:/Pico/pico-sdk
+Defaulting PICO_PLATFORM to rp2040 since not specified.
+Defaulting PICO platform compiler to pico_arm_gcc since not specified.
+PICO compiler is pico_arm_gcc
+-- The C compiler identification is GNU 10.3.1
+-- The CXX compiler identification is GNU 10.3.1
+-- The ASM compiler identification is GNU
+-- Found assembler: C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+Build type is Debug
+Using regular optimized debug build (set PICO_DEOPTIMIZED_DEBUG=1 to de-optimize)
+Using PICO_BOARD from environment ('pico')
+Using board configuration from C:/Pico/pico-sdk/src/boards/include/boards/pico.h
+-- Found Python3: C:/Users/Turgay/AppData/Local/Programs/Python/Python311/python.exe (found version "3.11.4") found components: Interpreter 
+TinyUSB available at C:/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040; enabling build support for USB.
+Compiling TinyUSB with CFG_TUSB_DEBUG=1
+cyw43-driver available at C:/Pico/pico-sdk/lib/cyw43-driver
+lwIP available at C:/Pico/pico-sdk/lib/lwip
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Turgay/OneDrive/Workspaces/personal-projects/NRF24L01-Library-Pico/cmake-build-debug

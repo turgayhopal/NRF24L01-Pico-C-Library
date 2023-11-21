@@ -1,0 +1,1 @@
+cmd='C:/Program Files/JetBrains/CLion 2021.2.3/bin/cmake/win/x64/bin/cmake.exe;-DCMAKE_MAKE_PROGRAM:FILEPATH=C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe;-GMinGW Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'
