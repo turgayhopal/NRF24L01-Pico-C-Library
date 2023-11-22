@@ -353,6 +353,7 @@ nrf_resp_t nrf_read_payload(void *rx_packet, size_t size) {
     spi_read_blocking(nrf_driver.spi_control.instance, 0, rx_packet, size);
     sleep_us(2);
     csn_high();
+    nrf_flush_rx_fifo();
     return NRF_OK;
 }
 

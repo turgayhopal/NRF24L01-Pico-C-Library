@@ -1,4 +1,4 @@
-// Padded and checksummed version of: C:/Users/Turgay/OneDrive/Workspaces/embedded-workspace/C/Clion/Pico/NRF24L01-Library-Pico/cmake-build-debug/pico-sdk/src/rp2_common/boot_stage2/bs2_default.bin
+// Padded and checksummed version of: C:/Users/Turgay/OneDrive/Workspaces/personal-projects/NRF24L01-Library-Pico/cmake-build-debug/pico-sdk/src/rp2_common/boot_stage2/bs2_default.bin
 
 .cpu cortex-m0plus
 .thumb

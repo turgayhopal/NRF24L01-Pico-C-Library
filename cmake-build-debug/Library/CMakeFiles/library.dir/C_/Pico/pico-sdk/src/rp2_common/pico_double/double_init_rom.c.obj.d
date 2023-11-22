@@ -28,9 +28,9 @@ Library/CMakeFiles/library.dir/C_/Pico/pico-sdk/src/rp2_common/pico_double/doubl
  c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\stdint.h \
  c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\sys\_intsup.h \
  c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\sys\_stdint.h \
- C:\Users\Turgay\OneDrive\Workspaces\embedded-workspace\C\Clion\Pico\NRF24L01-Library-Pico\cmake-build-debug\generated\pico_base/pico/version.h \
+ C:\Users\Turgay\OneDrive\Workspaces\personal-projects\NRF24L01-Library-Pico\cmake-build-debug\generated\pico_base/pico/version.h \
  C:\Pico\pico-sdk\src\common\pico_base\include/pico/config.h \
- C:\Users\Turgay\OneDrive\Workspaces\embedded-workspace\C\Clion\Pico\NRF24L01-Library-Pico\cmake-build-debug\generated\pico_base/pico/config_autogen.h \
+ C:\Users\Turgay\OneDrive\Workspaces\personal-projects\NRF24L01-Library-Pico\cmake-build-debug\generated\pico_base/pico/config_autogen.h \
  C:/Pico/pico-sdk/src/boards/include/boards/pico.h \
  C:/Pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
  C:\Pico\pico-sdk\src\rp2_common\pico_platform\include/pico/platform.h \
